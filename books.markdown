@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Books
-permalink: /books/
+title: Book formats
 ---
 
 ### Supported eBook formats  
